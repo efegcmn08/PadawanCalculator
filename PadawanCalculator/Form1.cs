@@ -154,37 +154,6 @@ namespace PadawanCalculator
             islemler.Clear();
         }
 
-<<<<<<< HEAD
-        private void btn_C_Click_1(object sender, EventArgs e)
-        {
-            txtEkran.Text = "0";
-        }
-
-        private void btnEsittir_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnCikart_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnTopla_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnCarp_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnBol_Click(object sender, EventArgs e)
-        {
-
-        }
-=======
         private void btnCikart_Click(object sender, EventArgs e)
         {
             islemekle("-");
@@ -291,8 +260,8 @@ namespace PadawanCalculator
                 btnBol_Click(null, null);
             }
         }
-       
->>>>>>> ccbb95a947d3cb1c1aabb99a8451edf4e6dcc83c
+
+
     }
 }
 
